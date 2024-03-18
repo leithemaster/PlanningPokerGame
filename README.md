@@ -12,7 +12,7 @@ Planning Poker, also known as Scrum Poker, is a consensus-based technique for es
 
 1. Clone the repo:
 ```
-git clone https://github.com/yourusername/planning-poker.git
+git clone https://github.com/leithemaster/PlanningPokerGame.git
 ```
 
 2. Install NPM packages:
@@ -38,7 +38,7 @@ To start a new planning session, follow these steps:
 For more detailed instructions, visit the Usage Guide.
 
 ## Contributing
-We welcome contributions from the community! Whether it's a bug fix, new feature, or improvement to the documentation, your help is appreciated. Please check out our Contributing Guidelines for more information on making contributions.
+We welcome contributions from the community! Whether it's a bug fix, a new feature, or an improvement to the documentation, your help is appreciated. Please check out our Contributing Guidelines for more information on making contributions.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
